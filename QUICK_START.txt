@@ -1,0 +1,149 @@
+╔════════════════════════════════════════════════════════════════╗
+║          PUBG Pro Optimizer - QUICK START GUIDE                ║
+║      For Intel i5-4210U + GeForce 820M + 8GB RAM               ║
+╚════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 OPTION 1: ONE-CLICK SETUP (EASIEST)
+
+Step 1: Right-click "RUN_OPTIMIZER.bat"
+Step 2: Click "Run as administrator"
+Step 3: Wait for completion message
+Step 4: Click "Restart Now" when prompted
+Step 5: Open GameLoop after restart
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐍 OPTION 2: PYTHON SCRIPT
+
+Step 1: Install Python (if not already installed)
+        Download from: https://www.python.org/downloads/
+
+Step 2: Open Command Prompt as Administrator
+
+Step 3: Navigate to this folder:
+        cd C:\path\to\PUBG-Pro-I5-4210U-Optimizer
+
+Step 4: Install dependencies:
+        pip install colorama
+
+Step 5: Run the optimizer:
+        python optimize_i5_820m.py
+
+Step 6: Follow the prompts
+Step 7: Restart PC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️  GAMELOOP CONFIGURATION (DO THIS MANUALLY)
+
+After running the optimizer, configure GameLoop with these settings:
+
+┌─────────────────────────────────┐
+│ GRAPHICS SETTINGS               │
+├─────────────────────────────────┤
+│ Resolution: 1280x720           │
+│ Frame Rate: 60 FPS             │
+│ Graphics Quality: Medium        │
+│ Shadows: OFF                    │
+│ Bloom: OFF                      │
+│ Reflections: OFF                │
+│ VSync: OFF                      │
+└─────────────────────────────────┘
+
+┌─────────────────────────────────┐
+│ PERFORMANCE SETTINGS            │
+├─────────────────────────────────┤
+│ CPU Cores: 2-4 cores           │
+│ RAM Allocation: 6GB             │
+│ Rendering Mode: Vulkan          │
+│ Low Latency Mode: ON            │
+└─────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 EXPECTED RESULTS
+
+BEFORE optimization:
+  • FPS: 30-40 (unstable, stuttering)
+  • Input Lag: High
+  • Temperature: 75-85°C
+
+AFTER optimization:
+  • FPS: 50-70 (stable)
+  • Input Lag: Reduced
+  • Temperature: 65-75°C
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️  IMPORTANT NOTES
+
+✓ Run as Administrator - REQUIRED for registry changes
+✓ Backup - All changes are reversible using "Restore_System.bat"
+✓ Restart - Reboot your PC after optimization
+✓ Safe - Does NOT modify PUBG game files or inject code
+✓ Network - Use Ethernet for best results, not WiFi
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 TROUBLESHOOTING
+
+Problem: Script says "must run as Administrator"
+Solution: Right-click the .bat file → "Run as administrator"
+
+Problem: Python says "pip is not recognized"
+Solution: Add Python to PATH or reinstall Python with PATH option
+
+Problem: Still getting low FPS after optimization
+Solution: 
+  1. Lower resolution to 960x540
+  2. Set Graphics to "Low"
+  3. Disable more effects (Reflections, Bloom, etc)
+  4. Close background applications
+
+Problem: Want to revert changes
+Solution: Run "Restore_System.bat" as administrator
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 FILES INCLUDED
+
+RUN_OPTIMIZER.bat          → One-click optimization (Easiest!)
+optimize_i5_820m.py        → Python version with details
+Restore_System.bat         → Revert all changes anytime
+GameLoop_Settings.ini      → Recommended configuration file
+QUICK_START.txt            → This file
+README.md                  → Full documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 PRO TIPS
+
+1. Disable Windows Update during gameplay
+2. Use Ethernet cable instead of WiFi for lower ping
+3. Close Chrome/Discord/Stream apps before gaming
+4. Use Task Manager to close unnecessary processes
+5. Enable "High Performance" power plan
+6. Allocate 6GB RAM to GameLoop (not 8GB, leave some for Windows)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❓ NEED HELP?
+
+Check GitHub Issues: https://github.com/7amod6/PUBG-Pro-I5-4210U-Optimizer
+Original PubgPro: https://github.com/Thigan12/PubgPro
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👾 READY TO OPTIMIZE?
+
+1. Right-click: RUN_OPTIMIZER.bat
+2. Select: Run as administrator
+3. Wait for completion
+4. Restart your PC
+5. Enjoy PUBG with better FPS!
+
+Good luck, player! 🎮
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
